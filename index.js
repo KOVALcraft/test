@@ -1,2 +1,4 @@
 const express = require('http');
-const app = express()
+const app = express();
+
+const port = 3004;
