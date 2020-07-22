@@ -1,0 +1,1 @@
+const viber = 'some viber-bot';
